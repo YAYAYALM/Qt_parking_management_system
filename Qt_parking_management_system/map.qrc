@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/car.jpeg</file>
+        <file>image/eyeClose.png</file>
+        <file>image/eyeOpen.png</file>
+        <file>image/left.jpeg</file>
+        <file>image/park.jpeg</file>
+        <file>image/return.png</file>
+        <file>image/right.jpeg</file>
+        <file>image/wel.jpeg</file>
+    </qresource>
+</RCC>
